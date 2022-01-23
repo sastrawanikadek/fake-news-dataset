@@ -6,4 +6,4 @@ This are some collections of fake news dataset that has been cleaned, augmented,
 3. Fake or Real News Dataset
 4. Fake News Detection Dataset
 
-[Link to Download Datasets](https://drive.google.com/drive/folders/1-lceLIn3f-5BzDTscFhXCkCk_GG5iENr?usp=sharing)
+[Link to Download Datasets](https://data.mendeley.com/datasets/945z9xkc8d/1)
